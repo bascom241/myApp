@@ -29,7 +29,7 @@ const CartPage = () => {
               if (cartItems[product.id]) {
                 return (
                   <div className='product-row' key={product.id}>
-                    <div className='product-cell'><img src={product.image} alt={product.title} className='product-image' /></div>
+                    <div className='product-cell'><img src={product.image} alt={product.tittle} className='product-image' /></div>
                     <div className='product-cell image-detail'>
                       <h4>{product.tittle}</h4>
                       <p>${product.price}</p>
