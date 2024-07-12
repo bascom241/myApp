@@ -98,9 +98,7 @@
         width: 100%;
     }
 
-    .product-table {
-        grid-template-columns: 1fr; /* Stack the columns vertically */
-    }
+    
 
     .product-cell {
         white-space: normal; /* Allow text to wrap */
