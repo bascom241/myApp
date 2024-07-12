@@ -16,10 +16,7 @@
 .product-contain {
     margin-top: 20px;
 }
-.product-row {
-  display: flex;
-  align-items: center;
-}
+
 
 .product-cell {
   flex: 1;
