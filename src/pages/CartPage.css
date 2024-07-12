@@ -94,8 +94,26 @@
 
 
 @media screen and (width<700px){
-    .cart-container {
+     .cart-container {
         width: 100%;
-     
+    }
+
+    .product-table {
+        grid-template-columns: 1fr; /* Stack the columns vertically */
+    }
+
+    .product-cell {
+        white-space: normal; /* Allow text to wrap */
+    }
+
+    .image-detail {
+        white-space: normal; /* Allow text to wrap */
+    }
+
+    .shopping, .shopping2 {
+        margin-top: 2rem;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
     }
 }
