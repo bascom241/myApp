@@ -16,6 +16,19 @@
 .product-contain {
     margin-top: 20px;
 }
+.product-row {
+  display: flex;
+  align-items: center;
+}
+
+.product-cell {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  white-space: nowrap; 
+}
 
 .product-table {
     display: grid;
