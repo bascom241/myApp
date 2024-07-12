@@ -71,6 +71,7 @@
     color: black;
     background-color: #f9f9f9;
     margin-left: 40px;
+    
 }
 
 .shopping2{
@@ -81,6 +82,7 @@
     color: rgb(255, 255, 255);
     background: rgb(67, 90, 201);
     margin-left: 40px;
+   
 }
 
 
@@ -97,8 +99,9 @@
      .cart-container {
         width: 100%;
     }
-
+.shopping{
     
-
+     margin-right:40px;
+}
 
 }
