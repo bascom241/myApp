@@ -100,18 +100,5 @@
 
     
 
-    .product-cell {
-        white-space: normal; /* Allow text to wrap */
-    }
 
-    .image-detail {
-        white-space: normal; /* Allow text to wrap */
-    }
-
-    .shopping, .shopping2 {
-        margin-top: 2rem;
-        margin-left: 0;
-        width: 100%;
-        text-align: center;
-    }
 }
